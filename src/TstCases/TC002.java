@@ -5,5 +5,8 @@ public class TC002 {
         // test case 2
 
         // writing nsmoke testing
+
+        // creating  a report
+        // screenshot in failure
     }
 }
